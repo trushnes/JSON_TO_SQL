@@ -1,0 +1,361 @@
+[{
+  "AdhrID": 101,
+  "Name": "Tarushi Jat",
+  "Gender": "F",
+  "DOB": "28/09/1999",
+  "AccType": "Demat",
+  "AccNo": "VC12345671",
+  "Balance": 99999999999,
+  "InterestRate": 2
+},{
+  "AdhrID": 102,
+  "Name": "Nehal Jat",
+  "Gender": "M",
+  "DOB": "30/03/2003",
+  "AccType": "Demat",
+  "AccNo": "VC12345672",
+  "Balance": 9999999999,
+  "InterestRate": 2
+},{
+  "AdhrID": 103,
+  "Name": "Vinod Jat",
+  "Gender": "M",
+  "DOB": "01/01/1980",
+  "AccType": "Current",
+  "AccNo": "VC12345673",
+  "Balance": 88888888888,
+  "InterestRate": 3
+},{
+  "AdhrID": 104,
+  "Name": "Sadhna Jat",
+  "Gender": "F",
+  "DOB": "04/06/1980",
+  "AccType": "Current",
+  "AccNo": "VC12345674",
+  "Balance": 8888888888,
+  "InterestRate": 3
+},{
+  "AdhrID": 105,
+  "Name": "Darshika Verma",
+  "Gender": "F",
+  "DOB": "05/06/2000",
+  "AccType": "Savings",
+  "AccNo": "VC12345675",
+  "Balance": 10000568,
+  "InterestRate": 1
+},{
+  "AdhrID": 106,
+  "Name": "Divyanshi Bhojak",
+  "Gender": "F",
+  "DOB": "11/06/1997",
+  "AccType": "Savings",
+  "AccNo": "VC12345676",
+  "Balance": 9999999999,
+  "InterestRate": 1
+},{
+  "AdhrID": 107,
+  "Name": "Varsha Patidar",
+  "Gender": "F",
+  "DOB": "01/07/1997",
+  "AccType": "Demat",
+  "AccNo": "VC12345677",
+  "Balance": 100000000,
+  "InterestRate": 2
+},{
+  "AdhrID": 108,
+  "Name": "Pragati Shukla",
+  "Gender": "F",
+  "DOB": "03/06/1998",
+  "AccType": "Savings",
+  "AccNo": "VC12345678",
+  "Balance": 1000000,
+  "InterestRate": 1
+},{
+  "AdhrID": 109,
+  "Name": "Shreya Neema",
+  "Gender": "F",
+  "DOB": "01/07/1997",
+  "AccType": "Current",
+  "AccNo": "VC12345678",
+  "Balance": 100000099,
+  "InterestRate": 3
+},{
+  "AdhrID": 110,
+  "Name": "Nitin Sharma",
+  "Gender": "M",
+  "DOB": "28/03/1997",
+  "AccType": "Demat",
+  "AccNo": "VC12345679",
+  "Balance": 1099999999,
+  "InterestRate": 2
+},{
+  "AdhrID": 111,
+  "Name": "Praful Kumar",
+  "Gender": "M",
+  "DOB": "29/04/1997",
+  "AccType": "Savings",
+  "AccNo": "VC12345681",
+  "Balance": 10999998999,
+  "InterestRate": 1
+},{
+  "AdhrID": 112,
+  "Name": "Abhishek Kumar",
+  "Gender": "M",
+  "DOB": "30/05/1997",
+  "AccType": "Current",
+  "AccNo": "VC12345682",
+  "Balance": 10989568999,
+  "InterestRate": 3
+},{
+  "AdhrID": 113,
+  "Name": "Rounak Mukherjee",
+  "Gender": "M",
+  "DOB": "25/11/1997",
+  "AccType": "Current",
+  "AccNo": "VC12345683",
+  "Balance": 10989578999,
+  "InterestRate": 3
+},{
+  "AdhrID": 114,
+  "Name": "Renuka Saini",
+  "Gender": "F",
+  "DOB": "29/05/1997",
+  "AccType": "Current",
+  "AccNo": "VC12345683",
+  "Balance": 10989568999,
+  "InterestRate": 3
+},{
+  "AdhrID": 115,
+  "Name": "Suyog",
+  "Gender": "M",
+  "DOB": "03/12/1997",
+  "AccType": "Demat",
+  "AccNo": "VC12345684",
+  "Balance": 999014568,
+  "InterestRate": 2
+},{
+  "AdhrID": 116,
+  "Name": "Shreenivas",
+  "Gender": "M",
+  "DOB": "08/2/1997",
+  "AccType": "Demat",
+  "AccNo": "VC12345685",
+  "Balance": 999014568,
+  "InterestRate": 2
+},{
+  "AdhrID": 117,
+  "Name": "Shubham Patidar",
+  "Gender": "M",
+  "DOB": "16/02/1997",
+  "AccType": "Savings",
+  "AccNo": "VC12345686",
+  "Balance": 9945614568,
+  "InterestRate": 1
+},{
+  "AdhrID": 118,
+  "Name": "Parag Fadnis",
+  "Gender": "M",
+  "DOB": "25/05/1997",
+  "AccType": "Savings",
+  "AccNo": "VC12345685",
+  "Balance": 0,
+  "InterestRate": 1
+},{
+  "AdhrID": 119,
+  "Name": "Rishabh Goyal",
+  "Gender": "M",
+  "DOB": "02/05/1996",
+  "AccType": "Savings",
+  "AccNo": "VC12345686",
+  "Balance": 999999990,
+  "InterestRate": 1
+},{
+  "AdhrID": 220,
+  "Name": "Namrata",
+  "Gender": "F",
+  "DOB": "16/08/1998",
+  "AccType": "Current",
+  "AccNo": "VC12345687",
+  "Balance": 9999999989,
+  "InterestRate": 3
+},{
+  "AdhrID": 221,
+  "Name": "Sandhya Verma",
+  "Gender": "F",
+  "DOB": "22/08/1981",
+  "AccType": "Demat",
+  "AccNo": "VC12345688",
+  "Balance": 9999999999,
+  "InterestRate": 2
+},{
+  "AdhrID": 222,
+  "Name": "Manaswita Datta",
+  "Gender": "F",
+  "DOB": "13/05/1997",
+  "AccType": "Savings",
+  "AccNo": "VC12345689",
+  "Balance": 876975986,
+  "InterestRate": 1
+},{
+  "AdhrID": 223,
+  "Name": "Udit",
+  "Gender": "M",
+  "DOB": "13/05/1997",
+  "AccType": "Savings",
+  "AccNo": "VC12345691",
+  "Balance": 876975987,
+  "InterestRate": 1
+},{
+  "AdhrID": 224,
+  "Name": "Sidney Rosario",
+  "Gender": "M",
+  "DOB": "01/05/1975",
+  "AccType": "Current",
+  "AccNo": "VC12345692",
+  "Balance": 99876975987,
+  "InterestRate": 3
+},{
+  "AdhrID": 225,
+  "Name": "Vinni",
+  "Gender": "F",
+  "DOB": "28/09/1999",
+  "AccType": "Current",
+  "AccNo": "VC12345693",
+  "Balance": 99876975987,
+  "InterestRate": 3
+},{
+  "AdhrID": 226,
+  "Name": "Pankaj Kumar",
+  "Gender": "M",
+  "DOB": "14/09/1998",
+  "AccType": "Demat",
+  "AccNo": "VC12345694",
+  "Balance": 99876975988,
+  "InterestRate": 2
+},{
+  "AdhrID": 227,
+  "Name": "ShankarNarayana",
+  "Gender": "M",
+  "DOB": "14/09/1997",
+  "AccType": "Demat",
+  "AccNo": "VC12345695",
+  "Balance": 75988,
+  "InterestRate": 2
+},{
+  "AdhrID": 228,
+  "Name": "Sabreesha",
+  "Gender": "F",
+  "DOB": "14/02/1997",
+  "AccType": "Savings",
+  "AccNo": "VC12345696",
+  "Balance": 9999975988,
+  "InterestRate": 1
+},{
+  "AdhrID": 229,
+  "Name": "Manisha Sharma",
+  "Gender": "F",
+  "DOB": "11/02/1997",
+  "AccType": "Savings",
+  "AccNo": "VC12345697",
+  "Balance": 9975988,
+  "InterestRate": 1
+},{
+  "AdhrID": 230,
+  "Name": "Shivay Sharma",
+  "Gender": "M",
+  "DOB": "25/12/2000",
+  "AccType": "Current",
+  "AccNo": "VC12345698",
+  "Balance": 99759889,
+  "InterestRate": 3
+},{
+  "AdhrID": 231,
+  "Name": "Rikshit Malviya",
+  "Gender": "M",
+  "DOB": "19/10/1998",
+  "AccType": "Current",
+  "AccNo": "VC12345699",
+  "Balance": 997598898,
+  "InterestRate": 3
+},{
+  "AdhrID": 232,
+  "Name": "Tushar",
+  "Gender": "M",
+  "DOB": "29/01/1996",
+  "AccType": "Savings",
+  "AccNo": "VC12345661",
+  "Balance": 997598,
+  "InterestRate": 1
+},{
+  "AdhrID": 233,
+  "Name": "Sanam",
+  "Gender": "M",
+  "DOB": "31/01/1992",
+  "AccType": "Demat",
+  "AccNo": "VC123456612",
+  "Balance": 988897598,
+  "InterestRate": 2
+},{
+  "AdhrID": 234,
+  "Name": "Heena",
+  "Gender": "F",
+  "DOB": "01/03/1994",
+  "AccType": "Savings",
+  "AccNo": "VC123456613",
+  "Balance": 9897598,
+  "InterestRate": 1
+},{
+  "AdhrID": 235,
+  "Name": "Vicky Jat",
+  "Gender": "M",
+  "DOB": "11/03/1993",
+  "AccType": "Savings",
+  "AccNo": "VC123456614",
+  "Balance": 999897598,
+  "InterestRate": 1
+},{
+  "AdhrID": 236,
+  "Name": "Kanak Sohani",
+  "Gender": "F",
+  "DOB": "14/08/1996",
+  "AccType": "Demat",
+  "AccNo": "VC123456615",
+  "Balance": 9997598,
+  "InterestRate": 2
+},{
+  "AdhrID": 237,
+  "Name": "Twinkle",
+  "Gender": "F",
+  "DOB": "16/09/1998",
+  "AccType": "Demat",
+  "AccNo": "VC123456616",
+  "Balance": 9999997598,
+  "InterestRate": 2
+},{
+  "AdhrID": 238,
+  "Name": "Prarthna Jaiswal",
+  "Gender": "F",
+  "DOB": "22/08/1995",
+  "AccType": "Current",
+  "AccNo": "VC123456617",
+  "Balance": 99997598,
+  "InterestRate": 3
+},{
+  "AdhrID": 239,
+  "Name": "Sid Khabiya",
+  "Gender": "M",
+  "DOB": "01/11/1998",
+  "AccType": "Savings",
+  "AccNo": "VC123456618",
+  "Balance": 9999755598,
+  "InterestRate": 1
+},{
+  "AdhrID": 240,
+  "Name": "Rishi Verma",
+  "Gender": "M",
+  "DOB": "29/02/1994",
+  "AccType": "Savings",
+  "AccNo": "VC123456619",
+  "Balance": 9999755598,
+  "InterestRate": 1
+}]
